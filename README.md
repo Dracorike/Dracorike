@@ -3,7 +3,7 @@
 
 i'm android developer. 📱    
 i'm from Brazil. 🌎  
-2023 Goals: Be a pleno devaloper and learn flutter. 🚩
+2023 Goals: Be a pleno developer and learn flutter. 🚩
 
 ## About me
 
