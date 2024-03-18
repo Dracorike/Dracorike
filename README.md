@@ -15,6 +15,7 @@ I currently have three years in android development, I am currently a freelancer
 ![Dracorike GitHub stats](https://github-readme-stats.vercel.app/api?username=Dracorike&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dracorike&layout=compact&theme=dark)](https://github.com/Dracorike/github-readme-stats)
 
-<code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?&style=for-the-badge&logo=java&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Kotlin-AA42f5?&style=for-the-badge&logo=kotlin&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Flutter-0800FC?&style=for-the-badge&logo=flutter&logoColor=white"></code>
