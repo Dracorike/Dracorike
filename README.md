@@ -1,13 +1,20 @@
 # Welcome to my profile! 
 ## i'm Pedro.
 
-i'm mobile developer. 📱    
-i'm from Brazil. 🌎  
+I'm mobile developer. 📱    
+I'm from Brazil. 🌎  
 
 ## About me
 
-I study programming since 2018, my first language is Java, my first technology was Java Swing.  
-I currently have three years in android development, I am currently a freelancer looking for a job in the mobile development area.
+I am a mobile developer with professional experience in native Android (Java and Kotlin) and Flutter. I have a great passion for mobile app development, which is, without a doubt, what I do best.
+My studies began in 2018 with Java, but my professional experience started in 2021, working on small projects as a freelancer.
+
+## Goal
+
+My goal for 2025 is to specialize in iOS development.
+I will consider this goal achieved once I complete at least 60% of this roadmap: https://roadmap.sh/ios and create a small personal project.
+
+---
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/dracorike) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/pedro-macêdo-developer/)
