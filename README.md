@@ -1,8 +1,9 @@
 # Welcome to my profile! 
-## i'm Pedro.
 
-I'm mobile developer. 📱    
-I'm from Brazil. 🌎  
+Hi, my name is Pedro. 👋
+I am mobile developer. 📱    
+I am from Brazil. 🌎  
+And, I am in college studying Software Engineering. 🎓
 
 ## About me
 
@@ -26,3 +27,5 @@ I will consider this goal achieved once I complete at least 60% of this roadmap:
 <code><img height="20" src="https://img.shields.io/badge/Kotlin-AA42f5?&style=for-the-badge&logo=kotlin&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Flutter-0800FC?&style=for-the-badge&logo=flutter&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Swift-D45902?&style=for-the-badge&logo=swift&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Spring-73EB5B?&style=for-the-badge&logo=spring&logoColor=black"></code>
