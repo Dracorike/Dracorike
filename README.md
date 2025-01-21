@@ -1,6 +1,6 @@
 # Welcome to my profile! 
 
-Hi, my name is Pedro. 👋
+Hi, my name is Pedro. 👋  
 I am mobile developer. 📱    
 I am from Brazil. 🌎  
 And, I am in college studying Software Engineering. 🎓
